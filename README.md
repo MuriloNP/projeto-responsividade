@@ -2,8 +2,6 @@
 
 Etapas para conclusão do exercício:
 
-- Clone este repositório (ou baixe-o)
-
 - Crie o arquivo *index.html* na pasta **/public**
 
 - Abra os arquivos *.png* na pasta **/mockups**
